@@ -1,4 +1,4 @@
-# Best Practice of Storing ETH/ERC20 Tokens Offline
+# Best Practice of Storing ETH/ERC20 Tokens with MyEtherWallet
 
 1. Create an encrypted disk on Mac with a complicated password. A sparse bundle is recommended to save you space. (https://support.apple.com/kb/PH22247) 
 2. Download myetherwallet. An older version or known stable version is better than latest. The latest may have bugs or risk being hacked. A local version is fully working, thanks to the MEW author. It is better than the online version because there can be risk of the server being hacked. 
